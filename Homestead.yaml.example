@@ -16,6 +16,7 @@ folders:
 sites:
     - map: homestead.test
       to: /home/vagrant/code/public
+      php: '7.3'
 
 databases:
     - homestead
